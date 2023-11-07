@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "playwright": "^1.39.0"
+  }
+}
